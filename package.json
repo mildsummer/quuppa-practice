@@ -1,0 +1,43 @@
+{
+  "name": "quuppa-practice",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.3.13",
+    "browser-sync": "^2.11.1",
+    "del": "^2.2.0",
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-loader": "^1.6.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cached": "^1.1.0",
+    "gulp-changed": "^1.3.0",
+    "gulp-combine-mq": "^0.4.0",
+    "gulp-if": "^2.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-pug": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-uglify": "^2.0.0",
+    "raw-loader": "^0.5.1",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-named": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack-stream": "^3.1.0"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "16.3.5",
+    "bezier-easing": "^2.0.3",
+    "three": "^0.87.1",
+    "three-orbitcontrols": "^1.2.1"
+  }
+}
